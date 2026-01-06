@@ -15,6 +15,6 @@ This program allows the user to create a customer record. What makes it special 
 4.  Choose the rental type (Daily or Long-term).
 5.  Check the `kiralama_bilgileri.txt` file in the folder to see the saved record.
 
-## 🛠 Technical Details
+## Technical Details
 * **Language:** C
 * **Key Concepts:** Structs, Unions, File I/O (`fopen`, `fprintf`), Pointers.
